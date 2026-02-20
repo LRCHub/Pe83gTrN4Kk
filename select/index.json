@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Champain",
+  "base_artist": "YZERR",
+  "createdAt": "2026-02-20T05:33:33.455399Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Champain",
+      "artist": "NoCap",
+      "has_synced": false,
+      "path": "select/01_Champain_NoCap.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "NoCap- Champain (Official Audio)",
+      "artist": "TreJay",
+      "has_synced": true,
+      "path": "select/02_NoCap-_Champain_(Official_Audio)_TreJay.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Champain",
+      "artist": "YG Teck",
+      "has_synced": true,
+      "path": "select/03_Champain_YG_Teck.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Babylon (feat. Ginger & DJ Champain)",
+      "artist": "Backyard Babies",
+      "has_synced": false,
+      "path": "select/04_Babylon_(feat._Ginger_&_DJ_Champain)_Backyard_Babies.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Babylon (Feat Ginger & Dj Champain)",
+      "artist": "Backyard Babies",
+      "has_synced": false,
+      "path": "select/05_Babylon_(Feat_Ginger_&_Dj_Champain)_Backyard_Babies.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Champain",
+      "artist": "NoCap",
+      "has_synced": true,
+      "path": "select/06_Champain_NoCap.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "CHAMPAIN & VACAY",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/07_CHAMPAIN_&_VACAY_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "CHAMPAIN & VACAY",
+      "artist": "Travis Scott & Don Toliver",
+      "has_synced": true,
+      "path": "select/08_CHAMPAIN_&_VACAY_Travis_Scott_&_Don_Toliver.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "CHAMPAIN",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/09_CHAMPAIN_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "CHAMPAIN & VACAY (Paused)",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/10_CHAMPAIN_&_VACAY_(Paused)_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "CHAMPAIN & VACAY (Official Audio)",
+      "artist": "TravisScottVEVO",
+      "has_synced": false,
+      "path": "select/11_CHAMPAIN_&_VACAY_(Official_Audio)_TravisScottVEVO.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "CHAMPAIN & VACAY (Official Audio)",
+      "artist": "Travis Scott",
+      "has_synced": false,
+      "path": "select/12_CHAMPAIN_&_VACAY_(Official_Audio)_Travis_Scott.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Champain",
+      "artist": "YZERR",
+      "has_synced": false,
+      "path": "select/pl_01_Champain_YZERR.txt"
+    }
+  ]
+}
